@@ -20,6 +20,11 @@ namespace TestProjecct
 
         }
 
+        static void g()
+        {
+
+        }
+
         static void h()
         {
 
