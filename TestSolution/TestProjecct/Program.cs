@@ -14,5 +14,10 @@ namespace TestProjecct
             // Another test
             // Another test comment
         }
+
+        static void f()
+        {
+
+        }
     }
 }
