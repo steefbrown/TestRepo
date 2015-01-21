@@ -19,5 +19,10 @@ namespace TestProjecct
         {
 
         }
+
+        static void g()
+        {
+
+        }
     }
 }
